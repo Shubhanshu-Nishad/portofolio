@@ -63,7 +63,7 @@ class Header extends Component {
               <Button
                 color="inherit"
                 style={{ fontSize: "1rem" }}
-                href="https://drive.google.com/file/d/14f8zSAXWWEuT3dpMwlGFyneJEV--vY3I/view"
+                href="https://drive.google.com/file/d/1qqBDI9zsudh5DhAQWGpVwTuVSL1rPFrN/view"
               >
                 <i class="fas fa-cloud-download-alt"> DOWNLOAD CV</i>
               </Button>
